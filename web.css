@@ -1661,9 +1661,9 @@ group-93 * {
   font-family: "Merriweather-Regular", sans-serif;
   font-size: 20px;
   font-weight: 380;
-  position: absolute;
+  position:relative;
   left: 756px;
-  top: 80px;
+  top: -80px;
   width:90%;
   height: 14.89px;
 }
