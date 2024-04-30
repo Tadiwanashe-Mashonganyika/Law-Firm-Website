@@ -377,6 +377,10 @@ position: static;
   cursor: pointer;
 
 }
+.free:hover {
+  background-color: #6d0303d3;
+}
+
 
 .learn {
   /* translucent btn  */
@@ -387,10 +391,10 @@ position: static;
   height: 35px;
   border-radius: 5px
 }
-
-.free:hover {
-  background-color: #C82424;
+.learn:hover {
+  background-color: #6d0303d3;
 }
+
 
 .flex-container {
   display: flex;
@@ -617,7 +621,7 @@ flex-shrink: 0;
 
 .f-c:hover{
   color: #C82424;
-  background-color: #fa00006b;
+  background-color:#6d0303d3;
   
 }
 
@@ -975,7 +979,7 @@ main {
 }
 
 .app:hover {
-  background-color: #ae1919;
+  background-color:#6d0303d3;
 }
 
 .info {
